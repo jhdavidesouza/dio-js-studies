@@ -1,0 +1,6 @@
+body{/* just adding some style to the page */
+    background: hsla(16, 100%, 50%, 1.0);
+}
+.headings{/*heading text color is this*/
+    color: hsla(271, 76%, 53%, 1.0);
+}
