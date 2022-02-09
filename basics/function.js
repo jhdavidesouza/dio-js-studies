@@ -9,3 +9,4 @@ function sayHello(firstName, lastName){//arguments that receive the values when 
 }
 
 sayHello("Jhonatas", "de Souza");//calling the function with these values
+
