@@ -1,0 +1,33 @@
+/* importing font from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Syne+Tactile&display=swap'); 
+
+:root{
+    --body-backcolor: hsl(154, 75%, 92%);
+    --container-backcolor:hsl(147, 100%, 74%);
+    --button-backcolor:;
+    --todo-list-backcolor:;
+    --task-backcolor:;
+}
+
+*{
+    font-family: 'Syne Tactile', cursive;
+    font-size: 30px;
+}
+
+body{
+    background-color: var(--body-backcolor);
+}
+
+#container{
+    margin: 10vh auto;
+    padding: 10vh 10vw;
+
+    width: 25%;
+
+    text-align: center;
+
+    border: 1px solid black;
+    border-radius: 20px;
+
+    background-color: var(--container-backcolor);
+}
