@@ -83,8 +83,6 @@ body{
     list-style-type: none;
 }
 
-#todo-list input{
-
-    padding: 10px;
+#todo-list input[type="checkbox"]{
     
 }
