@@ -8,4 +8,4 @@ Let's see what I can do so far with this amazing programming language.
 
 intro-js: Introduction Crash JavaScript Course with some challenges along the path
 
-js-syntax: 
+syntax-js: Learning First JavaScript Syntax Concepts 
